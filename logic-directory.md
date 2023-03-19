@@ -189,3 +189,5 @@ Yap | Audrey | University of Victoria (Canada) | Associate Professor | http://we
 Zamansky | Anna | University of Haifa (Israel) | assistant professor | http://is.haifa.ac.il/~annazam/web/ | Non-classical logic, Proof Theory, Knowledge representation, Paraconsistent logics
 Zhu | Shufang | Sapienza University of Rome (Italy) | Research postdoc | https://shufang-zhu.github.io/ | Automated reasoning, planning and program synthesis
 Özgün | Aybüke | ILLC-University of Amsterdam | Research postdoc | https://sites.google.com/site/ozgunaybuke/ | Philosophical and mathematical logic, Formal epistemology, dynamic epistemic logic, neighbourhood/topological semantics for knowledge and belief
+
+Moon | Stella | University of California, Irvine (USA) | PhD Candidate | https://sites.uci.edu/stellamoon | Mathematical Logic, Philosophy of Mathematics/Mathematical Practice, Foundations of Mathematics, Models of Arithmetic, Philosophy of Homotopy Type Theory
